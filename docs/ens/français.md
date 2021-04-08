@@ -4,7 +4,7 @@ Les collégiens qui viennent de terminer leur année de troisième, vont faire l
 
 Le premier des changements majeurs concerne l'accompagnement dont ils ont bénéficié au collège et qui va désormais se transformer : dès l'entrée en seconde, en effet, le professeur de français va demander aux élèves, de se responsabiliser et de devenir beaucoup plus **autonomes**.
 
-De plus, l'**apprentissage du français -- comme celui des autres matières -- s'intensifie**.
+De plus, l'**apprentissage du français — comme celui des autres matières — s'intensifie**.
 
 ## Le programme en seconde
 
@@ -236,3 +236,6 @@ _A.K._ :
 
 - **Nicolas Machiavel** : *Le Prince* (1513). Un penseur politique qui a osé voir le pouvoir comme il est : la fin justifie les moyens.
 
+
+
+--8<-- "includes/abbreviations.md"

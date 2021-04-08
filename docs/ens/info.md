@@ -128,3 +128,6 @@ Les élèves utilisent peu la tablette, mais beaucoup l'ordinateur. On n'utilise
 > Et ça ressemble à quoi ?
 
 Le cours, des exercices et des devoirs sont disponibles [là](https://franckchambon.github.io/ClasseVirtuelle/NSI/nsi-accueil.html).
+
+
+--8<-- "includes/abbreviations.md"

@@ -12,12 +12,12 @@ nav:
     - ÉPS: 'ens/eps.md'
     - Espagnol: 'ens/espagnol.md'
     - Français: 'ens/français.md'
-    - 'Histoire -- Géographie -- Éducation civique': 'hist.md'
+    - 'Histoire, Géographie, Éducation civique': 'ens/hist.md'
     - Informatique: 'ens/info.md'
     - Italien: 'ens/italien.md'
     - Latin: 'ens/latin.md'
     - Mathématiques: 'ens/maths.md'
-    - 'Physique-Chimie': 'ens/physique.md'
+    - 'Physique, Chimie': 'ens/physique.md'
     - SÉS: 'ens/ses.md'
     - STMG: 'ens/stmg.md'
     - SVT: 'ens/svt.md'
@@ -59,11 +59,11 @@ theme:
 
 markdown_extensions:
   - abbr
+  - def_list
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.snippets
-  - pymdownx.smartsymbols
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
