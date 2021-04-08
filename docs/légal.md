@@ -9,11 +9,11 @@
 
 ## Direction de la publication
 
-> M. VINATIER, Chef d’établissement
+> M. François VINATIER, Chef d’établissement
 
 ## Responsable de la publication
 
-> M. VINATIER, Chef d’établissement
+> M. François VINATIER, Chef d’établissement
 
 ## Webmestre
 
