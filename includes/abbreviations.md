@@ -6,3 +6,5 @@
 *[STMG]: Sciences et Technologies du Management et de la Gestion
 *[HG-ÉC]: Histoire - Géographie - Éducation Civique
 *[SÉS]: Sciences Économiques et Sociales
+*[QCM]: Questionnaire à Choix Multiple
+*[SNT]: Sciences Numériques et Technologie
