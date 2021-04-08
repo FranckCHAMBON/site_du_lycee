@@ -1,25 +1,39 @@
 # Bienvenue au lycée
 
-Une présentation du lycée
+Une présentation du lycée.
 
-## Les infrastructures
+![Logo du lycée](assets/site.png)
+## Infrastructures
 
-- gymnase
-- nombre de salles
-- nombre d'élèves
+TODO: à compléter un peu
 
-## L'administration
+### Gymnase
 
-- Direction
-- Vie Scolaire
-- Intendance
+### Salles de classe
 
-## L'infirmerie
+### Élèves
 
-- blabla
+### ATRIUM
 
-## Enseignements
+L'ENT du lycée permet...
 
-- Arts-plastiques
-- Mathématiques
-- N.S.I.
+TODO: Guillaume... un petit mot sur ATRIUM...
+Ou alors une section entière à part ; comme pour Intendance...
+
+## Administration
+
+### Direction
+
+TODO: Mme Rodrigues et/ou M. Vinatier... un petit mot...
+
+### Vie Scolaire
+
+TODO: Olivier... un petit mot...
+
+
+
+## Infirmerie
+
+TODO: un petit mot ???
+
+--8<-- "includes/abbreviations.md"
