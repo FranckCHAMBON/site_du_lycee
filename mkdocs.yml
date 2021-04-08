@@ -1,0 +1,55 @@
+site_name: Nouveau site du Lycée
+
+theme:
+  name: material
+  font: false
+  language: fr
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+    - header.autohide
+
+  palette:
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Mode sombre
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Mode clair
+
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - toc:
+      permalink: ⚓︎
+      toc_depth: 3
+
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<email-address>
+      name: Écrire au lycée
+    - icon: fontawesome/regular/bookmark
+      link: https://www.atrium-sud.fr/
+      name: ATRIUM
