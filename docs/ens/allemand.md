@@ -13,4 +13,5 @@ Par ailleurs, les élèves volontaires ont la possibilité de participer aux pro
 
 
 
+<p><a href="https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_2013.jpg#/media/Fichier:Schloss_Neuschwanstein_2013.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/1200px-Schloss_Neuschwanstein_2013.jpg" alt="Image illustrative de l’article Château de Neuschwanstein"></a><br>Par Thomas Wolf, <a rel="nofollow" class="external text" href="http://www.foto-tw.de">www.foto-tw.de</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.en" title="Creative Commons Attribution-Share Alike 3.0 de">CC BY-SA 3.0 de</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=27899216">Lien</a></p>
 
