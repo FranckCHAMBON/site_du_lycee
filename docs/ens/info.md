@@ -4,6 +4,8 @@
 
 L'enseignement de la SNT est de 1 h 30 par semaine.
 
+- Une partie en classe entière pour des cours.
+- Une partie en salle informatique pour s'exercer.
 
 
 ## La spécialité N.S.I.
@@ -11,6 +13,24 @@ L'enseignement de la SNT est de 1 h 30 par semaine.
 **NSI** : **N**umérique et **S**ciences **I**nformatiques
 
 En classe de première et terminale, on apprend à coder, surtout en **Python**. On réfléchit à des **algorithmes**, et on résout des problèmes.
+
+
+Voici un exemple d'exercice résolu niveau première :
+> Clique sur `Exécuter`, puis entre ton prénom.
+
+<iframe src="https://brython.info/tests/editor.html?lang=fr&code=%22%22%22%0AUn%20petit%20jeu%20d'affichage%0A%22%22%22%0A%0Apr%C3%A9nom%20%3D%20input%28%22Quel%20est%20ton%20pr%C3%A9nom%20%3F%22%29%0A%0Al%20%3D%20len%28pr%C3%A9nom%29%0An%20%3D%202%20*%20l%20-%201%0A%0Adef%20num%C3%A9ro%28i%2C%20j%29%3A%0A%20%20%20%20i%20%3D%20min%28i%2C%20n%20-%201%20-%20i%29%0A%20%20%20%20j%20%3D%20min%28j%2C%20n%20-%201%20-%20j%29%0A%20%20%20%20return%20min%28i%2C%20j%29%0A%0A%0Afor%20i%20in%20range%28n%29%3A%0A%20%20%20%20for%20j%20in%20range%28n%29%3A%0A%20%20%20%20%20%20%20%20print%28pr%C3%A9nom%5Bnum%C3%A9ro%28i%2C%20j%29%5D%2C%20end%3D%22%22%29%0A%20%20%20%20print%28%29%0A" width="100%" height="500"></iframe> 
+
+
+* Voici un autre exemple niveau début terminale.
+
+> Ce script récupère, en le vérifiant, un entier de 1 à 1000, puis affiche ses diviseurs, ainsi que la somme.
+
+<iframe src="https://console.basthon.fr/?script=eJx1UktqwzAU3Bt8h1dBwSYhibehLhS67KoXcD56bgTNk6tPSDE5R7e9Sy7Wp9hOlbTRwpinmdGMRhJrkJoIK08V6e3KYJbP0wR4Odw7hBIUNd5l4jnAwBN0MJAIBRy_oZjNZjAXeU8ynz09LDrRXXaSyn_nS2vROOY_lIzhTxDptnG_xsZFGgadN_TXZYfodylN0kRyGKu3W6yk2mU05BBCvCLttEJ4X3YANm-BQcqiNzZEWdBi0sGf6lqtN4xlSGO09Mrxj7ZWrXg0CXId8HxUr1JCH6HWBiTnBrOkN8yKMWccQZFHoT68dgrJQcg_nYKM89rTtRPcx2PFRcHjmRhpRddwZemC3euyyytuY0JFtWjlAY5f0A5HHNhESweRX8KvY4_K2ObZ6l15y-sNkQEdmgzv5p_C02Tw-nKzSHYMnFSML54Ck38ACQvRtQ" width="100%" height="900"></iframe> 
+
+
+
+
+
 
 > Une nouvelle discipline :
 

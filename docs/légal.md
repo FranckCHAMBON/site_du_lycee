@@ -17,7 +17,7 @@
 
 ## Webmestre
 
-> M. Guillaume RAFFIN
+> M. Franck CHAMBON
 
 TODO: à compléter avec nouvelle règles ????
 
