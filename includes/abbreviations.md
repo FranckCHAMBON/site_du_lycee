@@ -8,3 +8,4 @@
 *[SÉS]: Sciences Économiques et Sociales
 *[QCM]: Questionnaire à Choix Multiple
 *[SNT]: Sciences Numériques et Technologie
+*[JPO]: Journées Portes Ouvertes

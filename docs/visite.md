@@ -1,4 +1,4 @@
-# Visite virtuelle
+# JPO - Visite virtuelle
 
 Une création de M. Raffin
 

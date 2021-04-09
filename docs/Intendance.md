@@ -1,7 +1,5 @@
 # Intendance
 
-> ajout de contact ????
-
 ## Restauration scolaire
 
 ### Ouverture

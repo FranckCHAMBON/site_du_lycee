@@ -19,5 +19,4 @@
 
 > M. Franck CHAMBON
 
-TODO: à compléter avec nouvelle règles ????
 

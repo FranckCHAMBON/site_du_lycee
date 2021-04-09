@@ -1,11 +1,13 @@
-# Bienvenue au lycée
+# Bienvenue au lycée Lucie AUBRAC
 
-Une présentation du lycée.
+Une présentation du lycée qui aidera à remplacer les JPO.
+
+De manière virtuelle, vous pouvez découvrir les locaux, les enseignements et obtenir quelques renseignements utiles sur l'ENT ou l'intendance de l'établissement.
 
 ![Logo du lycée](assets/site.png)
 
 
-### ATRIUM
+## ATRIUM
 
 [ATRIUM](https://www.atrium-sud.fr/) est l'ENT du lycée, il permet
 - de se connecter automatiquement à `pronote`,

@@ -1,10 +1,10 @@
-site_name: Nouveau site du Lycée
+site_name: Lycée Lucie AUBRAC
 
 nav:
   - 'Lycée': 'index.md'
-  - 'ATRIUM': 'atrium.md'
-  - 'Visite virtuelle': 'visite.md'
   - 'Intendance': 'Intendance.md'
+  - 'ATRIUM': 'atrium.md'
+  - 'JPO - Visite virtuelle': 'visite.md'
   - 'Enseignements':
     - 'CDI': 'ens/cdi.md'
     - 'Allemand': 'ens/allemand.md'
@@ -38,7 +38,6 @@ theme:
     - header.autohide
 
   palette:
-
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -79,7 +78,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/solid/paper-plane
-      link: mailto:<email-address>
+      link: mailto:ce.0841093g@ac-aix-marseille.fr
       name: Écrire au lycée
     - icon: octicons/mortar-board-24
       link: https://www.atrium-sud.fr/
