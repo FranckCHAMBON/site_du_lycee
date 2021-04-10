@@ -2,7 +2,12 @@
 
 Il s'agit d'un enseignement dans la continuité du collège ciblant les compétences comme la compréhension de l’oral et de l’écrit et l'expression écrite et orale.
 
+## Volume horaire
+
 Les horaires en seconde sont de 2 h 30 par semaine.
+
+
+## Programme
 
 Les thèmes abordés sont les mêmes dans toutes les langues et suivent les programmes officiels (p. ex : famille, sport, art, ville...)
 
